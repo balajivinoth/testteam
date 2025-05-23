@@ -1,0 +1,22 @@
+{
+    "Users":[
+    {
+        "id":1,
+        "name":"balaji",
+        "username":"jeee",
+        "email":"balaji30n@gmail.com"
+    },
+    {
+        "id":2,
+        "name":"vinoth",
+        "username":"vvv",
+        "email":"vino@gmail.com"
+    },
+    {
+        "id":3,
+        "name":"paul",
+        "username":"ab",
+        "email":"paul@gmail.com"
+    }
+    ]
+}
